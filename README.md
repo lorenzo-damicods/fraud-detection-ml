@@ -357,6 +357,8 @@ Open and run `notebooks/fraud_detection_v4.ipynb` end-to-end. This will produce:
 - `train_columns_v4.pkl`
 Place the `.pkl` files in the `models/` directory.
 
+xgb_v4.pkl is included in the models/ directory. No retraining needed to run write_scores.py.
+
 ### 4. Write scores to database
 
 ```bash
