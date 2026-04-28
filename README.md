@@ -398,6 +398,13 @@ SELECT * FROM fraud.v_investigation_queue LIMIT 50;
 
 ---
 
+## 7. Mastercard Fraud Analytics - Executive Dashboard on Tableau
+The results of the fraud detection model are visualized in a Tableau Dashboard to support divisional decision-making.
+**Key Insights:**
+- **Prioritization:** High-value transactions are ranked by financial risk.
+- **Geographic Analysis:** Identification of fraud clusters in the UAE region.
+LINK: https://public.tableau.com/views/FraudAnalyticsExecutiveSummary/Dashboard1?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Tech Stack
 
 | Layer | Technology |
